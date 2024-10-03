@@ -1,0 +1,16 @@
+#content{
+    width: 600px;
+    border: 5px solid rgb(50, 50, 124);
+    margin: auto;
+    padding: 30px;
+    background-color: lightblue;
+    border-radius: 30px;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    background-color: rgb(68, 168, 168);
+}

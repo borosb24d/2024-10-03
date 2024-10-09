@@ -1,9 +1,9 @@
 #content{
     width: 600px;
-    border: 5px solid rgb(50, 50, 124);
+    border: 5px solid rgb(85, 85, 161);
     margin: auto;
     padding: 30px;
-    background-color: lightblue;
+    background-color: rgb(154, 197, 209);
     border-radius: 30px;
 }
 
@@ -12,5 +12,5 @@ img {
 }
 
 body {
-    background-color: rgb(68, 168, 168);
+    background-color: rgb(68, 145, 168);
 }

@@ -1,9 +1,13 @@
 #content{
     width: 600px;
+<<<<<<< HEAD
     border: 5px solid rgb(121, 121, 180);
+=======
+    border: 5px solid rgb(85, 85, 161);
+>>>>>>> d5c26d3baa8e5e09fdbd743314a195cce6b42aa9
     margin: auto;
     padding: 30px;
-    background-color: lightblue;
+    background-color: rgb(154, 197, 209);
     border-radius: 30px;
 }
 
@@ -12,5 +16,5 @@ img {
 }
 
 body {
-    background-color: rgb(68, 168, 168);
+    background-color: rgb(68, 145, 168);
 }
